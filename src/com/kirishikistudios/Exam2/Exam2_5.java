@@ -1,3 +1,5 @@
+package com.kirishikistudios.Exam2;
+
 /**
  * User: yamadanaoyuki
  * Date: 2013/02/24

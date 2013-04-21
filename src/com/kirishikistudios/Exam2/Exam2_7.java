@@ -1,4 +1,4 @@
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
+package com.kirishikistudios.Exam2;
 
 /**
  * User: yamadanaoyuki

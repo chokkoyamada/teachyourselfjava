@@ -1,4 +1,4 @@
-import com.sun.tools.corba.se.idl.SymtabEntry;
+package com.kirishikistudios.Exam1;
 
 /**
  * Created with IntelliJ IDEA.

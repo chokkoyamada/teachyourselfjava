@@ -1,3 +1,5 @@
+package com.kirishikistudios.Exam2;
+
 /**
  * User: yamadanaoyuki
  * Date: 2013/02/24
@@ -6,7 +8,7 @@
 public class Exam2_9 {
     public static void main(String args[]){
         makeFloatArray();
-
+        makeObjectArray();
     }
 
     private static void makeFloatArray() {
@@ -17,5 +19,17 @@ public class Exam2_9 {
         System.out.println(array[2]);
         System.out.println(array[3]);
         System.out.println(array[4]);
+    }
+
+    private static void makeObjectArray() {
+        Object array[] = new Object[5];
+        array[0] = new Integer(1);
+        array[1] = new String("Hello");
+        array[2] = new Boolean(true);
+        array[3] = new Character('a');
+        array[4] = new Double(0.1);
+        for (Object i : array){
+            System.out.println(i);
+        }
     }
 }

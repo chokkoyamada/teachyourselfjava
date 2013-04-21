@@ -1,3 +1,5 @@
+package com.kirishikistudios.Exam1;
+
 /**
  * Created with IntelliJ IDEA.
  * User: yamadanaoyuki
